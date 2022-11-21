@@ -5,6 +5,8 @@
 - 👋 Hi, I’m *@AluraEtudante*
 - 👀 estou intereessado em aprender a programar novas liguagens 
 - 🌱 estou recetemente aprendendo a programar javascript e scrath
+- ![javascript](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+- ![scrath](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
 <!---
