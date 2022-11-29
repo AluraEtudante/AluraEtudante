@@ -2,7 +2,7 @@
 ##editando meu perfil 
 :1:meu email de contato é [email](elis.ferreira.santos@escola.pr.gov.br)
 
-- 👋 Hi, I’m *elis regina*
+- 👋 Hi, I’m *@elis regina*
 - 👀 estou intereessado em aprender a programar novas liguagens 
 - 🌱 estou recetemente aprendendo a programar javascript e scrath
 - ![javascript](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
